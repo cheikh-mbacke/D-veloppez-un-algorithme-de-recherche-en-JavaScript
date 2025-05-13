@@ -17,3 +17,8 @@ Utilisation de `GitHub` pour le versionning et `Vercel` pour le déploiement.<br
 Utilisation du pattern `MVC` pour la structure du projet.<br>
 Projet orienté `Objet` avec utilisation de `Classes` et `Constructeurs`.
 
+---
+
+<p align="center">
+  <img src="./app.png">
+</p>
